@@ -1,0 +1,28 @@
+{
+  "name": "react-image-cropper",
+  "version": "1.0.0",
+  "description": "This is a React image cropper that allows users to crop images themselves.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uttampun44/react-image-cropper.git"
+  },
+  "keywords": [
+    "react",
+    "image",
+    "cropper"
+  ],
+  "author": "Uttam Pun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uttampun44/react-image-cropper/issues"
+  },
+  "homepage": "https://github.com/uttampun44/react-image-cropper#readme",
+  "devDependencies": {
+    "ts-jest": "^29.2.3",
+    "typescript": "^5.5.4"
+  }
+}
