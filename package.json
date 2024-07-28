@@ -4,7 +4,8 @@
   "description": "This is a React image cropper that allows users to crop images themselves.",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "start": "npm run start"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,10 @@
   },
   "homepage": "https://github.com/uttampun44/react-image-cropper#readme",
   "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "ts-jest": "^29.2.3",
     "typescript": "^5.5.4"
   }
